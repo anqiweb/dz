@@ -2183,7 +2183,7 @@ header .header-logo a {
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
-	min-height: 800px;
+	min-height: 250px;
 	position: relative;
 	padding: 12rem 0 9.6rem;
 	color: rgba(255, 255, 255, 0.3);
