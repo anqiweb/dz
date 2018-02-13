@@ -2778,7 +2778,7 @@ header .header-logo a {
 	background-size: cover;
 	padding-top: 10.2rem;
 	padding-bottom: 6rem;
-	position: relative;
+	position:relative;
 }
 
 #contact .overlay {
@@ -3078,7 +3078,7 @@ header .header-logo a {
  *
  * ------------------------------------------------------------------- */
 footer {
-	padding-top: 24rem;
+	padding-top: 16rem;
 	padding-bottom: 4.2rem;
 	text-align: center;
 	font-family: "montserrat-regular", sans-serif;
